@@ -33,6 +33,7 @@ const gameName = new String("zubair")
 // console.log(hundreds.toLocaleString('en-IN'))
 
 
+
 //math
 
 console.log(Math);
